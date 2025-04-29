@@ -79,9 +79,3 @@ AndroidGodEye使用 Apache2.0 许可协议。
 
 - [ahhbzyz](https://github.com/ahhbzyz)
 - [Xiangxingqian](https://github.com/Xiangxingqian)
-
-## 关于我
-
-- Github: [Kyson](https://github.com/Kyson)
-- Weibo: [hikyson](https://weibo.com/hikyson)
-- Blog: [tech.hikyson.cn](https://tech.hikyson.cn/)
